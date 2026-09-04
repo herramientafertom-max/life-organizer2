@@ -1,0 +1,26 @@
+life-organizer murió por un no pago de VPS, pero en general me dejó bastante que desear. Me sirvió de experiencia, que era lo que me importaba en ese momento.
+
+Ahora vamos por Life Organizer 2, el segundo intento para desarrollar una automatización que me sirva para ordenar mi vida. Langostini será el agente principal.
+
+Primero necesitamos una web app con un panel similar al de la versión Flutter.
+
+Requerimientos iniciales:
+- Horario semanal interactivo con bloques de trabajo, recreación, citas médicas, estudio, clases universitarias, etc.
+- Alarmas y recordatorios. Es la sección más crítica porque me cuesta despertarme y mi horario actual no funciona. Debe integrarse el panel de alarmas que utilizo ahora.
+- Calendario relacionado con el horario.
+- Medidores en calendario: días que me levanto temprano o fallo, estudio y ejercicio. Langostini será crucial en estos medidores.
+- Una experiencia visual atractiva y gamificada. La versión anterior era demasiado plana. Referencia visual: menú de Spider-Man de PS4.
+- Progreso, niveles, objetivos, tareas, rachas y medallas. Ejemplo: al cumplir tres días levantándome a la hora, entregar una insignia similar a las rachas de bajas de Call of Duty, pero como racha de aciertos.
+- Automatización de flujos de trabajo personales, proyectos y trabajos de clientes.
+- Plataforma de desarrollo multiagente con Langostini y Polpulpini, apoyada por GitHub, Docker, n8n, Claude Code, OpenCode y herramientas open source disponibles.
+
+Aspectos principales:
+- Responsabilidad.
+- Rutina.
+- Estudio.
+- Skills de programación.
+- Asesor financiero.
+- Proyectos.
+- Tareas.
+
+Es un proyecto grande.
